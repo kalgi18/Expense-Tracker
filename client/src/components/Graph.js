@@ -30,7 +30,7 @@ export default function Graph() {
             <div className="chart relative">
                 {graphData}
                 <h3 className='mb-4 font-bold title'>Total
-                    <span className='block text-3xl text-emerald-400'>{getTotal(data) ?getTotal(data):0}</span>
+                    <span className='block text-3xl text-emerald-400'>{getTotal(data) ? Rs. getTotal(data):0}</span>
                 </h3>
             </div>   
 
