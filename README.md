@@ -11,12 +11,12 @@ Steps to run the project on a local server:
 3. Open the folder with the help of any IDE.
 4. Open terminal to install dependencies (use different terminals for frontend and backend)
    
-   For frontend,
-   cd client
+   For frontend, 
+   cd client 
    npm install
    
-   For backend,
-   cd server
+   For backend, 
+   cd server 
    npm install
    
 5. Start the backend and frontend server by writing the below code on respective terminals
